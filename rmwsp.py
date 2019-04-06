@@ -17,7 +17,7 @@ import sys
 
 def main ():
     try:
-        # Substitute all whitespace (\s+) with no space ('') in input_string
+        # Substitute all whitespace (\s+) with no space ('') in input string.
         print("\nstring = \"{}\"\n".format(re.sub(r'\s+', '', sys.argv[1])))
 
     except:
