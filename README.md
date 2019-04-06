@@ -1,2 +1,7 @@
-# Python
-Examples of some common interview questions written in Python
+## Interview questions
+
+* **rmwsp.py**: remove all spaces/whitespace from a string, e.g.
+		
+		<python interpreter> rmwsp.py "This is a string with spaces."
+	
+	returns **string = "Thisisastringwithspaces."**
