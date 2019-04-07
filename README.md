@@ -10,4 +10,4 @@
 
 		<python interpreter> lcs.py "This is a string" "a string"
 		
-	returns **"Longest common substring = "a strin"**
+	returns **"Longest common substring = "a string"**
