@@ -6,8 +6,8 @@
 	
 	returns **string = "Thisisastringwithspaces."**
 	
-* Find the longest common substring of two strings, (**lcs.py**) e.g.
+* Find the longest common substring of two strings, (**lcsl.py**) e.g.
 
-		<python interpreter> lcs.py "This is a string" "a string"
+		<python interpreter> lcsl.py "This is a string" "a string"
 		
 	returns **"Longest common substring = "a string"**
