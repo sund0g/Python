@@ -24,9 +24,9 @@ Logic/algorithmic comments are contained in the individual scripts.
 		
 			returns
 			
-		input string:	'abca         '
+		input string:		'abca         '
 		unordered string:	'a cb'
-		ordered string:		'abc '
+		ordered string:	'abc '
 	
 * Reverse a singley-linked list, (**revlist.py**) e.g.
 
