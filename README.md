@@ -37,3 +37,22 @@ Logic/algorithmic comments are contained in the individual scripts.
 		Original:	['a', 'b', 'c']
 		Iterative:	['c', 'b', 'a']
 		Recursive:	['c', 'b', 'a']
+		
+* Reverse a string, (**revstr.py**) e.g.
+
+		<python interpreter> revstr.py this is a string
+		
+			returns
+			
+		Reversing as <class 'list'>
+
+		Original:	['this', 'is', 'a', 'string']
+		.reverse():	['string', 'a', 'is', 'this']
+		In-place:	['string', 'a', 'is', 'this']
+		for-loop:	['siht', 'si', 'a', 'gnirts']
+		Slicing:	['string', 'a', 'is', 'this']
+		
+		Reversing as <class 'str'>
+		
+		Original:	this is a string
+		Slicing:	gnirts a si siht
